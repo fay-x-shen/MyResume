@@ -63,8 +63,9 @@ I may post some blogs when I am soooo boring. They shall be found [here](/blogs/
 
 * **Xiaobei Shen**, Yimin Yu. Capacity allocation with multiple suppliers and multiple demand classes. *Production and Operations Management*, Forthcoming. 
 <a href="https://github.com/fay-x-shen/X-Shen-Resume/raw/master/papers/POM-2019-2.pdf">
-    <img alt="paper" src="https://shields.io/category/downloads/download-pdf-green.svg" />
+    <img alt="paper" src="https://img.shields.io/chocolatey/dt/git?color=green&label=Manuscript&logo=Downloads&logoColor=write" />
   </a>
+  
 * **Xiaobei Shen**, Lina Bao, Yimin Yu, Zhongsheng Hua. Managing supply chains with expediting and multiple demand classes. *Production and Operations Management*, 2019, 28(5), 1129-1148.
 * **Xiaobei Shen**, Lina Bao, Yimin Yu. Coordinating inventory and pricing decisions with general price-dependent demands. *Production and Operations Management*, 2018, 27(7), 1355-1367.
 * **Xiaobei Shen**, Zoie Shui-Yee Wong, Man Ho Ling, David Goldsman, Kwok-Leung Tsui. Comparison of algorithms to simulate disease transmission. *Journal of Simulation*, 2017, 11(3), 285-294.
