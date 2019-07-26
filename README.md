@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV Documentation">
-    <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="200px" height="200px" />
+  <a href="https://github.com/fay-x-shen/Project-Resume/image/dog.jpg" title="Image_Dog">
+    <img alt="dog" src="https://github.com/fay-x-shen/Project-Resume/image/dog.jpg" width="200px" height="200px" />
   </a>
   <br />
   Xiaobei Shen 
