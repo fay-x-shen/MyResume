@@ -58,6 +58,7 @@ I may post some blogs when I am soooo boring. They shall be found [here](/blogs/
 ## Teaching Experience
     Instructor, Operations Management (OM), International MBA (IMBA), USTC, since 2018
 
+
 ## Publications
 
 * **Xiaobei Shen**, Yimin Yu. Capacity allocation with multiple suppliers and multiple demand classes. *Production and Operations Management*, Forthcoming.
