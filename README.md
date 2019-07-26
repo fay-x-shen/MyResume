@@ -3,9 +3,10 @@
     <img alt="dog" src="https://github.com/fay-x-shen/Project-Resume/dog.jpg" width="300px" height="300px" />
   </a>
   <br />
-  ![image](http://github.com/fay-x-shen/Project-Resume/raw/master/image/dog.jpg)
   Xiaobei Shen 
 </h1>
+
+![image](http://github.com/fay-x-shen/Project-Resume/raw/master/image/dog.jpg)
 
 <p align="center">
   LaTeX template for your outstanding job application
