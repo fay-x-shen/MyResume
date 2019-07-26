@@ -8,8 +8,11 @@
 
 <p align="center">
   Associate Professor  
-  School of Management, University of Science and Technology of China (USTC), China
 </p>
+
+<p align="center">
+  School of Management, University of Science and Technology of China (USTC), China
+ </p>
 
 <div align="center">
   <a href="https://www.paypal.me/posquit0">
