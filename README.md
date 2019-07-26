@@ -51,7 +51,14 @@
 
 ## Publications
 
-* Xiaobei Shen, 
+* `Xiaobei Shen`, Yimin Yu. Capacity allocation with multiple suppliers and multiple demand classes. *Production and Operations Management*, Forthcoming.
+* Xiaobei Shen, Lina Bao, Yimin Yu, Zhongsheng Hua. Managing supply chains with expediting and multiple demand classes. *Production and Operations Management*, 2019, 28(5), 1129-1148.
+* Xiaobei Shen, Lina Bao, Yimin Yu. Coordinating inventory and pricing decisions with general price-dependent demands. *Production and Operations Management*, 2018, 27(7), 1355-1367.
+* Xiaobei Shen, Zoie Shui-Yee Wong, Man Ho Ling, David Goldsman, Kwok-Leung Tsui. Comparison of algorithms to simulate disease transmission. *Journal of Simulation*, 2017, 11(3), 285-294.
+* Xiaobei Shen, Kwok-Leung Tsui, William H. Woodall, Changliang Zou. Self-starting monitoring scheme for Poisson count data with varying population sizes. *Technometrics*, 2016, 58(4), 460-471.
+* Xiaobei Shen, Fugee Tsung, Changliang Zou. A new multivariate EWMA scheme for monitoring covariance matrices. *International Journal of Production Research*, 2014, 52(10), 2834-2850.
+* Xiaobei Shen, Fugee Tsung, Changliang Zou, Wei Jiang. Monitoring Poisson count data with probability control limits when sample sizes are time-varying. *Naval Research Logistics*, 2013, 60(8), 625-636.
+
 
 *Thank you for your support!*
 
