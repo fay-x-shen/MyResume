@@ -61,8 +61,7 @@ I may post some blogs when I am soooo boring. They shall be found [here](/blogs/
 
 ## Publications
 
-* **Xiaobei Shen**, Yimin Yu. Capacity allocation with multiple suppliers and multiple demand classes. *Production and Operations Management*, Forthcoming. 
-<a href="https://github.com/fay-x-shen/X-Shen-Resume/raw/master/papers/POM-2019-2.pdf">
+* **Xiaobei Shen**, Yimin Yu. Capacity allocation with multiple suppliers and multiple demand classes. *Production and Operations Management*, Forthcoming. <a href="https://github.com/fay-x-shen/X-Shen-Resume/raw/master/papers/POM-2019-2.pdf">
     <img alt="paper" src="https://img.shields.io/chocolatey/dt/git?color=green&label=Manuscript&logo=Downloads&logoColor=write" />
   </a>
   
