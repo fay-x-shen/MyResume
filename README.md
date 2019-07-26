@@ -39,14 +39,14 @@ I work on the operation and business strategies related to supply chains, trying
     Assistant Professor, 2016 - 2018
 
 #### College of Business/Engineering, City University of Hong Kong 
-    Research Fellow    2013 ~ 2016
+    Research Fellow, 2013 - 2016
     
 
 ## Education
 #### Hong Kong University of Science and Technology, Hong Kong SAR
-    Ph.D. in Industrial Engineering, Department of IEDA, 2009 ~ 2013
+    Ph.D. in Industrial Engineering, Department of IEDA, 2009 - 2013
 #### Shanghai Jiao Tong University, China
-    B.E. in Mechanical Engineering, School of Mechanical Engineering, 2005 ~ 2009
+    B.E. in Mechanical Engineering, School of Mechanical Engineering, 2005 - 2009
 
 
 ## Research Interests
@@ -54,7 +54,7 @@ I work on the operation and business strategies related to supply chains, trying
 
 
 ## Teaching Experience
-    Instructor    Operations Management (OM), International MBA (IMBA), USTC    since 2018
+    Instructor, Operations Management (OM), International MBA (IMBA), USTC, since 2018
 
 ## Publications
 
