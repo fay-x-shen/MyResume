@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/fay-x-shen/Resume/raw/master/dog.jpg" title="Image_Dog">
-    <img alt="dog" src="https://github.com/fay-x-shen/Project-Resume/raw/master/dog.jpg" width="300px" height="300px" />
+  <a href="https://github.com/fay-x-shen/X-Shen-Resume/raw/master/dog.jpg" title="Image_Dog">
+    <img alt="dog" src="https://github.com/fay-x-shen/X-Shen-Resume/raw/master/dog.jpg" width="300px" height="300px" />
   </a>
   <br />
   Xiaobei Shen 
@@ -19,7 +19,7 @@
  </p>
 
 <div align="center">
-  <a href="https://github.com/fay-x-shen/Resume/raw/master/CV_XiaobeiShen.pdf">
+  <a href="https://github.com/fay-x-shen/X-Shen-Resume/raw/master/CV_XiaobeiShen.pdf">
     <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
   </a>
 </div>
