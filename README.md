@@ -7,7 +7,9 @@
 </h1>
 
 <p align="center">
-  LaTeX template for your outstanding job application
+  Associate Professor
+  
+  School of Management, University of Science and Technology of China (USTC), China
 </p>
 
 <div align="center">
