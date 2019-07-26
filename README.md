@@ -4,7 +4,6 @@
   </a>
   <br />
   Xiaobei Shen 
-  School of Management, University 
 </h1>
 
 <p align="center">
