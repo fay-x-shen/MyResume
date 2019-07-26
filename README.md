@@ -3,6 +3,7 @@
     <img alt="dog" src="https://github.com/fay-x-shen/Project-Resume/dog.jpg" width="300px" height="300px" />
   </a>
   <br />
+  ![image](http://github.com/fay-x-shen/Project-Resume/image/dog.jpg)
   Xiaobei Shen 
 </h1>
 
