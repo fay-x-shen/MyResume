@@ -19,7 +19,7 @@
  </p>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf">
+  <a href="https://github.com/fay-x-shen/Resume/raw/master/CV_XiaobeiShen.pdf">
     <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
   </a>
 </div>
