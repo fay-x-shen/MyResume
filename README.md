@@ -17,10 +17,14 @@
  <p align="center">
   Room 701B, Management Building, Email: fayshen@ustc.edu.cn
  </p>
+ 
+  <p align="center">
+  My full resume can be downloaded by clicking the following botton
+ </p>
 
 <div align="center">
   <a href="https://github.com/fay-x-shen/X-Shen-Resume/raw/master/CV_XiaobeiShen.pdf">
-    <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
+    <img alt="Example Resume" src="https://img.shields.io/badge/Resume-pdf-green.svg" />
   </a>
 </div>
 
