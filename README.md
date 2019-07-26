@@ -32,6 +32,8 @@ Hey there. I am a faculty member at International Institute of Finance & School 
 
 I work on the operation and business strategies related to supply chains, trying to figure out the optimal rules that minize costs of firms. To apply the strategies, I frequently use convex optimization and dynamic programming to develop efficient algorithms. I am also interested in multiple areas such as information system, artificial intelligence, robotics, etc. 
 
+I may post some blogs when I am soooo boring. They shall be found [here](./blogs.md).
+
 
 ## Work Experience
 #### School of Management, University of Science and Technology of China
