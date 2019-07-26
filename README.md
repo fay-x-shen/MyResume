@@ -8,7 +8,6 @@
 
 <p align="center">
   Associate Professor
-  
   School of Management, University of Science and Technology of China (USTC), China
 </p>
 
