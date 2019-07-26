@@ -19,9 +19,8 @@
  </p>
 
 <div align="center">
-  My full resume: 
   <a href="https://github.com/fay-x-shen/X-Shen-Resume/raw/master/CV_XiaobeiShen.pdf">
-    <img alt="Example Resume" src="https://img.shields.io/badge/Resume-pdf-green.svg" />
+    <img alt="Example Resume" src="https://img.shields.io/badge/ResumeDownload-pdf-green.svg" />
   </a>
 </div>
 
