@@ -4,9 +4,8 @@
   </a>
   <br />
   Xiaobei Shen 
+  School of Management, University 
 </h1>
-
-![image](http://github.com/fay-x-shen/Project-Resume/raw/master/image/dog.jpg)
 
 <p align="center">
   LaTeX template for your outstanding job application
