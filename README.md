@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Associate Professor
+  Associate Professor  
   School of Management, University of Science and Technology of China (USTC), China
 </p>
 
