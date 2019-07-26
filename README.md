@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/fay-x-shen/Project-Resume/dog.jpg" title="Image_Dog">
-    <img alt="dog" src="https://github.com/fay-x-shen/Project-Resume/dog.jpg" width="300px" height="300px" />
+    <img alt="dog" src="https://github.com/fay-x-shen/Project-Resume/raw/master/dog.jpg" width="300px" height="300px" />
   </a>
   <br />
   Xiaobei Shen 
