@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/fay-x-shen/Project-Resume/dog.jpg" title="Image_Dog">
+  <a href="https://github.com/fay-x-shen/Resume/raw/master/dog.jpg" title="Image_Dog">
     <img alt="dog" src="https://github.com/fay-x-shen/Project-Resume/raw/master/dog.jpg" width="300px" height="300px" />
   </a>
   <br />
@@ -36,15 +36,22 @@
     
 
 ## Education
+#### Hong Kong University of Science and Technology, Hong Kong SAR
+    Ph.D. in Industrial Engineering, Department of IEDA, 2009 ~ 2013
+#### Shanghai Jiao Tong University, China
+    B.E. in Mechanical Engineering, School of Mechanical Engineering, 2005 ~ 2009
 
 
-Please help keep this project alive! Donations are welcome and will go towards further development of this project.
+## Research Interests
+    Supply Chain and Inventory Management, Dynamic Pricing, Dynamic Programming, Data-Driven Research
 
-    PayPal: paypal.me/posquit0
-    BTC: 1Je3DxJVM2a9nTVPNo55SfQwpmxA6N2KKb
-    BCH: 1Mg1wG7PwHGrHYSWS67TsGSjo5GHEVbF16
-    ETH: 0x77ED9B4659F80205E9B9C9FB1E26EDB9904AFCC7
-    QTUM: QZT7D6m3QtTTqp7s4ZWAwLtGDsoHMMaM8E
+
+## Teaching Experience
+    Instructor    Operations Management (OM), International MBA (IMBA), USTC    since 2018
+
+## Publications
+
+* Xiaobei Shen, 
 
 *Thank you for your support!*
 
