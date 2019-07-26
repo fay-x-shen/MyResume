@@ -13,6 +13,10 @@
 <p align="center">
   School of Management, University of Science and Technology of China (USTC), China
  </p>
+ 
+ <p align="center">
+  Room 701B, Management Building, Email: fayshen@ustc.edu.cn
+ </p>
 
 <div align="center">
   <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf">
@@ -22,12 +26,17 @@
 
 <br />
 
-## What is Awesome CV?
+## Work Experience
+#### School of Management, University of Science and Technology of China
+    Associate Professor    2019 ~ Present
+    Assistant Professor    2016 ~ 2018
 
-**Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
+#### College of Business/Engineering, City University of Hong Kong 
+    Research Fellow    2013 ~ 2016
+    
 
+## Education
 
-## Donate
 
 Please help keep this project alive! Donations are welcome and will go towards further development of this project.
 
