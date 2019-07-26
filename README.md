@@ -35,9 +35,8 @@ I work on the operation and business strategies related to supply chains, trying
 
 ## Work Experience
 #### School of Management, University of Science and Technology of China
-    |Associate Professor|2019 ~ Present|
-    | -------------------- | :--------------------: |
-    | Assistant Professor |    2016 ~ 2018|
+    Associate Professor, 2019 - Present
+    Assistant Professor, 2016 - 2018
 
 #### College of Business/Engineering, City University of Hong Kong 
     Research Fellow    2013 ~ 2016
