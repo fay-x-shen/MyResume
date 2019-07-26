@@ -30,13 +30,14 @@
 
 Hey there. I am a faculty member at International Institute of Finance & School of Management, USTC. I obtained my Ph.D. degree in 2013 from the Department of Industrial Engineering and Decision Analytics, Hong Kong University of Science and Technology, under the supervision of Prof. Fugee Tsung. Back in 2009, I received my B.E. degree from the School of Mechnical Engineering, Shanghai Jiao Tong University, under the supervision of Prof. Zhibin Jiang. 
 
-
+I work on the operation and business strategies related to supply chains, trying to figure out the optimal rules that minize costs of firms. To apply the strategies, I frequently use convex optimization and dynamic programming to develop efficient algorithms. I am also interested in multiple areas such as information system, artificial intelligence, robotics, etc. 
 
 
 ## Work Experience
 #### School of Management, University of Science and Technology of China
-    Associate Professor    2019 ~ Present
-    Assistant Professor    2016 ~ 2018
+    |Associate Professor|2019 ~ Present|
+    | -------------------- | :--------------------: |
+    | Assistant Professor |    2016 ~ 2018|
 
 #### College of Business/Engineering, City University of Hong Kong 
     Research Fellow    2013 ~ 2016
