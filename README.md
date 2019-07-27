@@ -36,6 +36,7 @@ I may post some blogs when I am soooo boring. They shall be found [here](/blogs/
 
 
 ## Work Experience
+
 #### School of Management, University of Science and Technology of China
     Associate Professor, 2019 - Present
     Assistant Professor, 2016 - 2018
@@ -45,8 +46,10 @@ I may post some blogs when I am soooo boring. They shall be found [here](/blogs/
     
 
 ## Education
+
 #### Hong Kong University of Science and Technology, Hong Kong SAR
     Ph.D. in Industrial Engineering, Department of IEDA, 2009 - 2013
+    
 #### Shanghai Jiao Tong University, China
     B.E. in Mechanical Engineering, School of Mechanical Engineering, 2005 - 2009
 
