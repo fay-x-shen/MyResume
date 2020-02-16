@@ -1,7 +1,6 @@
-![image](https://github.com/fay-x-shen/Shen-Resume/blob/master/头像图片.jpg)
 <h1 align="center">
-  <a href="https://raw.githubusercontent.com/fay-x-shen/Shen-Resume/blob/master/头像图片.jpg" title="Image_Me">
-    <img alt="dog" src="https://raw.githubusercontent.com/fay-x-shen/Shen-Resume/blob/master/头像图片.jpg" width="300px" height="300px" />
+  <a href="https://github.com/fay-x-shen/Shen-Resume/blob/master/头像图片.jpg" title="Image_Me">
+    <img alt="dog" src="https://github.com/fay-x-shen/Shen-Resume/blob/master/头像图片.jpg" width="300px" height="300px" />
   </a>
   <br />
   Xiaobei Shen 
