@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/fay-x-shen/Shen-Resume/raw/master/dog.jpg" title="Image_Dog">
+  <a href="https://github.com/fay-x-shen/Shen-Resume/raw/master/头像图片.jpg" title="Image_Me">
     <img alt="dog" src="https://github.com/fay-x-shen/Shen-Resume/raw/master/dog.jpg" width="300px" height="300px" />
   </a>
   <br />
