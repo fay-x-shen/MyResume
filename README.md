@@ -1,9 +1,9 @@
 <h1 align="center">
   <a href="https://github.com/fay-x-shen/Shen-Resume/blob/master/头像图片.jpg" title="Image_Me">
-    <img alt="dog" src="https://github.com/fay-x-shen/Shen-Resume/blob/master/头像图片.jpg" width="300px" height="300px" />
+    <img alt="Me" src="https://github.com/fay-x-shen/Shen-Resume/blob/master/头像图片.jpg" width="280px" height="280px" />
   </a>
   <br />
-  Xiaobei Shen 
+  Xiaobei Shen (沈晓蓓) 
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  School of Management, University of Science and Technology of China (USTC), China
+  International Institute of Finance, School of Management, University of Science and Technology of China (USTC), China
  </p>
  
  <p align="center">
@@ -19,7 +19,7 @@
  </p>
 
 <div align="center">
-  <a href="https://github.com/fay-x-shen/Shen-Resume/raw/master/CV_XiaobeiShen.pdf">
+  <a href="https://github.com/fay-x-shen/MyResume/raw/master/CV_XiaobeiShen.pdf">
     <img alt="Example Resume" src="https://img.shields.io/badge/Resume_Download-pdf-green.svg" />
   </a>
 </div>
