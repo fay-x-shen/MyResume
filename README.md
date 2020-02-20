@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/fay-x-shen/Shen-Resume/blob/master/头像图片.jpg" title="Image_Me">
-    <img alt="Me" src="https://github.com/fay-x-shen/Shen-Resume/blob/master/头像图片.jpg" width="280px" height="280px" />
+  <a href="https://github.com/fay-x-shen/MyResume/blob/master/头像图片.jpg" title="Image_Me">
+    <img alt="Me" src="https://github.com/fay-x-shen/MyResume/blob/master/头像图片.jpg" width="280px" height="280px" />
   </a>
   <br />
   Xiaobei Shen (沈晓蓓) 
@@ -64,11 +64,11 @@ I may post some blogs when I am soooo boring. They shall be found [here](/blogs/
 
 ## Publications
 
-* **Xiaobei Shen**, Yimin Yu. Capacity allocation with multiple suppliers and multiple demand classes. *Production and Operations Management*, 2019, 28(11), 2792-2807. [(Manuscript)](https://fay-x-shen.github.io/Shen-Resume/papers/POM-2019-2.pdf)
-* **Xiaobei Shen**, Lina Bao, Yimin Yu, Zhongsheng Hua. Managing supply chains with expediting and multiple demand classes. *Production and Operations Management*, 2019, 28(5), 1129-1148. [(Manuscript)](https://fay-x-shen.github.io/Shen-Resume/papers/POM-2019-1.pdf)
-* **Xiaobei Shen**, Lina Bao, Yimin Yu. Coordinating inventory and pricing decisions with general price-dependent demands. *Production and Operations Management*, 2018, 27(7), 1355-1367. [(Manuscript)](https://fay-x-shen.github.io/Shen-Resume/papers/POM-2018.pdf)
-* **Xiaobei Shen**, Zoie Shui-Yee Wong, Man Ho Ling, David Goldsman, Kwok-Leung Tsui. Comparison of algorithms to simulate disease transmission. *Journal of Simulation*, 2017, 11(3), 285-294. [(Manuscript)](https://fay-x-shen.github.io/Shen-Resume/papers/JSim-2016.pdf)
-* **Xiaobei Shen**, Kwok-Leung Tsui, William H. Woodall, Changliang Zou. Self-starting monitoring scheme for Poisson count data with varying population sizes. *Technometrics*, 2016, 58(4), 460-471. [(Manuscript)](https://fay-x-shen.github.io/Shen-Resume/papers/Tech-2016.pdf)
-* **Xiaobei Shen**, Fugee Tsung, Changliang Zou. A new multivariate EWMA scheme for monitoring covariance matrices. *International Journal of Production Research*, 2014, 52(10), 2834-2850. [(Manuscript)](https://fay-x-shen.github.io/Shen-Resume/papers/IJPR-2014.pdf)
-* **Xiaobei Shen**, Fugee Tsung, Changliang Zou, Wei Jiang. Monitoring Poisson count data with probability control limits when sample sizes are time-varying. *Naval Research Logistics*, 2013, 60(8), 625-636. [(Manuscript)](https://fay-x-shen.github.io/Shen-Resume/papers/NRL-2013.pdf)
+* **Xiaobei Shen**, Yimin Yu. Capacity allocation with multiple suppliers and multiple demand classes. *Production and Operations Management*, 2019, 28(11), 2792-2807. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2019-2.pdf)
+* **Xiaobei Shen**, Lina Bao, Yimin Yu, Zhongsheng Hua. Managing supply chains with expediting and multiple demand classes. *Production and Operations Management*, 2019, 28(5), 1129-1148. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2019-1.pdf)
+* **Xiaobei Shen**, Lina Bao, Yimin Yu. Coordinating inventory and pricing decisions with general price-dependent demands. *Production and Operations Management*, 2018, 27(7), 1355-1367. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2018.pdf)
+* **Xiaobei Shen**, Zoie Shui-Yee Wong, Man Ho Ling, David Goldsman, Kwok-Leung Tsui. Comparison of algorithms to simulate disease transmission. *Journal of Simulation*, 2017, 11(3), 285-294. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/JSim-2016.pdf)
+* **Xiaobei Shen**, Kwok-Leung Tsui, William H. Woodall, Changliang Zou. Self-starting monitoring scheme for Poisson count data with varying population sizes. *Technometrics*, 2016, 58(4), 460-471. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/Tech-2016.pdf)
+* **Xiaobei Shen**, Fugee Tsung, Changliang Zou. A new multivariate EWMA scheme for monitoring covariance matrices. *International Journal of Production Research*, 2014, 52(10), 2834-2850. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/IJPR-2014.pdf)
+* **Xiaobei Shen**, Fugee Tsung, Changliang Zou, Wei Jiang. Monitoring Poisson count data with probability control limits when sample sizes are time-varying. *Naval Research Logistics*, 2013, 60(8), 625-636. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/NRL-2013.pdf)
 
