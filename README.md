@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/fay-x-shen/MyResume/master/picme.jpg" title="Image_Me">
-    <img alt="Me" src="https://github.com/fay-x-shen/MyResume/master/picme.jpg" width="280px" height="280px" />
+  <a href="https://github.com/fay-x-shen/MyResume/blob/master/picme.jpg" title="Image_Me">
+    <img alt="Me" src="https://github.com/fay-x-shen/MyResume/blob/master/picme.jpg" width="280px" height="280px" />
   </a>
   <br />
   Xiaobei Shen (沈晓蓓) 
@@ -19,7 +19,7 @@
  </p>
 
 <div align="center">
-  <a href="https://github.com/fay-x-shen/MyResume/master/CV_XiaobeiShen.pdf">
+  <a href="https://github.com/fay-x-shen/MyResume/raw/master/CV_XiaobeiShen.pdf">
     <img alt="Example Resume" src="https://img.shields.io/badge/Resume_Download-pdf-green.svg" />
   </a>
 </div>
