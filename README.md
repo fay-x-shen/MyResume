@@ -55,16 +55,21 @@ I may post some blogs when I am soooo boring. They shall be found [here](/blogs/
 
 
 ## Research Interests
-    Supply Chain and Inventory Management, Dynamic Pricing, Dynamic Programming, Data-Driven Research
+    Supply Chain and Inventory Management, Dynamic Pricing, Data-Driven Research
 
 
 ## Teaching Experience
-    Instructor, Operations Management (OM), International MBA (IMBA), USTC, since 2018
+    Instructor, Python, Undergraduate, USTC
+    Instructor, Operations Management, International MBA (IMBA), USTC
+    Instructor, Revenue Management, Postgraduate, USTC
+    Instructor, Optimization and Algorithm, Postgraduate, USTC
 
 
 ## Publications
 * **Xiaobei Shen**, Yimin Yu, Jingsheng (Jeannette) Song. Optimal policies for a multi-echelon inventory problem with service time target and expediting. *Manufacturing and Service Operations Management*, 2021, Forthcoming.
 * **Xiaobei Shen**, Yimin Yu, Woonghee Tim Huh. A permutation-dependent separability approach for capacitated two-echelon inventory systems. *Operations Research*, 2021, Publish Online.
+* Xiangyin Kong, Shuqi Liu, **Xiaobei Shen**, Gengzhong Feng. The optimal joint incentive contract designs and inventory decisions with an overconfident agent. *Systems Engineering -- Theory & Practice*, 2021. Forthcoming. (In Chinese)
+* Xu Tian, Gongbing Bi, **Xiaobei Shen**, Lindong Liu. Crowdsourcing contests with entry cost. *International Transactions in Operational Research*, 2021, 28(3), 1371-1392. 
 * **Xiaobei Shen**, Yimin Yu. Capacity allocation with multiple suppliers and multiple demand classes. *Production and Operations Management*, 2019, 28(11), 2792-2807. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2019-2.pdf)
 * **Xiaobei Shen**, Lina Bao, Yimin Yu, Zhongsheng Hua. Managing supply chains with expediting and multiple demand classes. *Production and Operations Management*, 2019, 28(5), 1129-1148. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2019-1.pdf)
 * **Xiaobei Shen**, Lina Bao, Yimin Yu. Coordinating inventory and pricing decisions with general price-dependent demands. *Production and Operations Management*, 2018, 27(7), 1355-1367. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2018.pdf)
