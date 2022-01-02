@@ -19,7 +19,7 @@
  </p>
 
 <div align="center">
-  <a href="https://github.com/fay-x-shen/MyResume/raw/master/CV_XiaobeiShen.pdf">
+  <a href="https://github.com/fay-x-shen/MyResume/master/CV_XiaobeiShen.pdf">
     <img alt="Example Resume" src="https://img.shields.io/badge/Resume_Download-pdf-green.svg" />
   </a>
 </div>
