@@ -18,12 +18,6 @@
   Room 521, Management Building, Email: fayshen@ustc.edu.cn
  </p>
 
-#<div align="center">
-#  <a href="https://github.com/fay-x-shen/MyResume/raw/master/CV_XiaobeiShen.pdf">
-#    <img alt="Example Resume" src="https://img.shields.io/badge/Resume_Download-pdf-green.svg" />
-#  </a>
-#</div>
-
 <br />
 
 ## Brief Introduction
