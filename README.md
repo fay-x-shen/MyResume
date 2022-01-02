@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/fay-x-shen/MyResume/blob/master/头像图片.jpg" title="Image_Me">
-    <img alt="Me" src="https://github.com/fay-x-shen/MyResume/blob/master/头像图片.jpg" width="280px" height="280px" />
+  <a href="https://github.com/fay-x-shen/MyResume/blob/master/picme.jpg" title="Image_Me">
+    <img alt="Me" src="https://github.com/fay-x-shen/MyResume/blob/master/picme.jpg" width="280px" height="280px" />
   </a>
   <br />
   Xiaobei Shen (沈晓蓓) 
@@ -15,7 +15,7 @@
  </p>
  
  <p align="center">
-  Room 701B, Management Building, Email: fayshen@ustc.edu.cn
+  Room 521, Management Building, Email: fayshen@ustc.edu.cn
  </p>
 
 <div align="center">
@@ -63,7 +63,8 @@ I may post some blogs when I am soooo boring. They shall be found [here](/blogs/
 
 
 ## Publications
-
+* **Xiaobei Shen**, Yimin Yu, Jingsheng (Jeannette) Song. Optimal policies for a multi-echelon inventory problem with service time target and expediting. *Manufacturing and Service Operations Management*, 2021, Forthcoming.
+* **Xiaobei Shen**, Yimin Yu, Woonghee Tim Huh. A permutation-dependent separability approach for capacitated two-echelon inventory systems. *Operations Research*, 2021, Publish Online.
 * **Xiaobei Shen**, Yimin Yu. Capacity allocation with multiple suppliers and multiple demand classes. *Production and Operations Management*, 2019, 28(11), 2792-2807. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2019-2.pdf)
 * **Xiaobei Shen**, Lina Bao, Yimin Yu, Zhongsheng Hua. Managing supply chains with expediting and multiple demand classes. *Production and Operations Management*, 2019, 28(5), 1129-1148. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2019-1.pdf)
 * **Xiaobei Shen**, Lina Bao, Yimin Yu. Coordinating inventory and pricing decisions with general price-dependent demands. *Production and Operations Management*, 2018, 27(7), 1355-1367. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2018.pdf)
