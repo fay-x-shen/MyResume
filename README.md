@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/fay-x-shen/MyResume/blob/master/picme.jpg" title="Image_Me">
-    <img alt="Me" src="https://github.com/fay-x-shen/MyResume/blob/master/picme.jpg" width="280px" height="280px" />
+  <a href="https://raw.githubusercontent.com/fay-x-shen/MyResume/master/picme.jpg" title="Image_Me">
+    <img alt="Me" src="https://raw.githubusercontent.com/fay-x-shen/MyResume/master/picme.jpg" width="280px" height="280px" />
   </a>
   <br />
   Xiaobei Shen (沈晓蓓) 
