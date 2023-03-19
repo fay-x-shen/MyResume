@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Associate Professor  
+  Professor  
 </p>
 
 <p align="center">
@@ -32,7 +32,8 @@ I may post some blogs when I am soooo boring. They shall be found [here](/blogs/
 ## Work Experience
 
 #### School of Management, University of Science and Technology of China
-    Associate Professor, 2019 - Present
+    Professor, 2022 - now
+    Associate Professor, 2019 - 2022
     Assistant Professor, 2016 - 2018
 
 #### College of Business/Engineering, City University of Hong Kong 
@@ -60,9 +61,9 @@ I may post some blogs when I am soooo boring. They shall be found [here](/blogs/
 
 
 ## Publications
-* **Xiaobei Shen**, Yimin Yu, Jingsheng (Jeannette) Song. Optimal policies for a multi-echelon inventory problem with service time target and expediting. *Manufacturing and Service Operations Management*, 2021, Forthcoming.
-* **Xiaobei Shen**, Yimin Yu, Woonghee Tim Huh. A permutation-dependent separability approach for capacitated two-echelon inventory systems. *Operations Research*, 2021, Publish Online.
-* Xiangyin Kong, Shuqi Liu, **Xiaobei Shen**, Gengzhong Feng. The optimal joint incentive contract designs and inventory decisions with an overconfident agent. *Systems Engineering -- Theory & Practice*, 2021. Forthcoming. (In Chinese)
+* **Xiaobei Shen**, Yimin Yu, Jingsheng (Jeannette) Song. Optimal policies for a multi-echelon inventory problem with service time target and expediting. *Manufacturing and Service Operations Management*,  2022, 24(4), 2310-2327.
+* **Xiaobei Shen**, Yimin Yu, Woonghee Tim Huh. A permutation-dependent separability approach for capacitated two-echelon inventory systems. *Operations Research*, 2022, 70(4), 1953-1968.
+* Xiangyin Kong, Shuqi Liu, **Xiaobei Shen**, Gengzhong Feng. The optimal joint incentive contract designs and inventory decisions with an overconfident agent. *Systems Engineering -- Theory & Practice*,  2022, 42(1), 123-137. (In Chinese)
 * Xu Tian, Gongbing Bi, **Xiaobei Shen**, Lindong Liu. Crowdsourcing contests with entry cost. *International Transactions in Operational Research*, 2021, 28(3), 1371-1392. 
 * **Xiaobei Shen**, Yimin Yu. Capacity allocation with multiple suppliers and multiple demand classes. *Production and Operations Management*, 2019, 28(11), 2792-2807. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2019-2.pdf)
 * **Xiaobei Shen**, Lina Bao, Yimin Yu, Zhongsheng Hua. Managing supply chains with expediting and multiple demand classes. *Production and Operations Management*, 2019, 28(5), 1129-1148. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2019-1.pdf)
