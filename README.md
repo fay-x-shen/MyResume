@@ -22,9 +22,9 @@
 
 ## Brief Introduction
 
-Hey there. I am a faculty member at International Institute of Finance & School of Management, USTC. I obtained my Ph.D. degree in 2013 from the Department of Industrial Engineering and Decision Analytics, Hong Kong University of Science and Technology, under the supervision of Prof. Fugee Tsung. Back in 2009, I received my B.E. degree from the School of Mechnical Engineering, Shanghai Jiao Tong University, under the supervision of Prof. Zhibin Jiang. 
+I am a faculty member at School of Management and International Institute of Finance, USTC. I obtained my Ph.D. degree in 2013 from the Department of Industrial Engineering and Decision Analytics, Hong Kong University of Science and Technology, under the supervision of Prof. Fugee Tsung. Back in 2009, I received my B.E. degree from the School of Mechnical Engineering, Shanghai Jiao Tong University, under the supervision of Prof. Zhibin Jiang. 
 
-I work on the operation and business strategies related to supply chains, trying to figure out the optimal rules that minize costs of firms. To apply the strategies, I frequently use convex optimization and dynamic programming to develop efficient algorithms. I am also interested in multiple areas such as information system, artificial intelligence, robotics, etc. 
+I work on the operation and business strategies related to inventory, pricing, contract design and consumer behavior, trying to figure out the optimal rules. To apply the strategies, I frequently use convex optimization and dynamic programming to develop efficient algorithms. I am also interested in multiple areas such as information system, artificial intelligence, robotics, etc. 
 
 I may post some blogs when I am soooo boring. They shall be found [here](/blogs/Readme.md).
 
@@ -50,20 +50,21 @@ I may post some blogs when I am soooo boring. They shall be found [here](/blogs/
 
 
 ## Research Interests
-    Supply Chain and Inventory Management, Dynamic Pricing, Data-Driven Research
+    Supply Chain and Inventory Management, Dynamic Pricing, Contract Design, Data-Driven Research
 
 
 ## Teaching Experience
     Instructor, Python, Undergraduate, USTC
+    Instructor, Social Media Analysis, Undergraduate, USTC
     Instructor, Operations Management, International MBA (IMBA), USTC
     Instructor, Revenue Management, Postgraduate, USTC
     Instructor, Optimization and Algorithm, Postgraduate, USTC
 
 
-## Publications
+## Publications ("___" indicates my students)
 * **Xiaobei Shen**, Yimin Yu, Jingsheng (Jeannette) Song. Optimal policies for a multi-echelon inventory problem with service time target and expediting. *Manufacturing and Service Operations Management*,  2022, 24(4), 2310-2327.
 * **Xiaobei Shen**, Yimin Yu, Woonghee Tim Huh. A permutation-dependent separability approach for capacitated two-echelon inventory systems. *Operations Research*, 2022, 70(4), 1953-1968.
-* Xiangyin Kong, Shuqi Liu, **Xiaobei Shen**, Gengzhong Feng. The optimal joint incentive contract designs and inventory decisions with an overconfident agent. *Systems Engineering -- Theory & Practice*,  2022, 42(1), 123-137. (In Chinese)
+* Xiangyin Kong, \underline{Shuqi Liu}, **Xiaobei Shen**, Gengzhong Feng. The optimal joint incentive contract designs and inventory decisions with an overconfident agent. *Systems Engineering -- Theory & Practice*,  2022, 42(1), 123-137. (In Chinese)
 * Xu Tian, Gongbing Bi, **Xiaobei Shen**, Lindong Liu. Crowdsourcing contests with entry cost. *International Transactions in Operational Research*, 2021, 28(3), 1371-1392. 
 * **Xiaobei Shen**, Yimin Yu. Capacity allocation with multiple suppliers and multiple demand classes. *Production and Operations Management*, 2019, 28(11), 2792-2807. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2019-2.pdf)
 * **Xiaobei Shen**, Lina Bao, Yimin Yu, Zhongsheng Hua. Managing supply chains with expediting and multiple demand classes. *Production and Operations Management*, 2019, 28(5), 1129-1148. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/POM-2019-1.pdf)
