@@ -26,7 +26,7 @@ I am a faculty member at School of Management and International Institute of Fin
 
 I work on the operation and business strategies related to inventory, pricing, contract design and consumer behavior, trying to figure out the optimal rules. To apply the strategies, I frequently use convex optimization and dynamic programming to develop efficient algorithms. I am also interested in multiple areas such as information system, artificial intelligence, robotics, etc. 
 
-I may post some blogs when I am soooo boring. They shall be found [here](/blogs/Readme.md).
+I may post some blogs when I am soooooo boring. They shall be found [here](/blogs/Readme.md).
 
 
 ## Work Experience
