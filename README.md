@@ -76,12 +76,28 @@ I work on the operation and business strategies related to inventory, pricing, c
 * **Xiaobei Shen**, Fugee Tsung, Changliang Zou, Wei Jiang*. Monitoring Poisson count data with probability control limits when sample sizes are time-varying. *Naval Research Logistics*, 2013, 60(8), 625-636. [(Manuscript)](https://fay-x-shen.github.io/MyResume/papers/NRL-2013.pdf)
 
 ## Supervision 
-* Caiyuan Xiong, PhD, graduated from USTC in 2022; winner of Chinese Academy of Sciencer Dean Reward (Excellence Award, 2022年度中国科学院院长优秀奖). First position: Post-doctor in USTC
+* Jiancheng Lyu, Post-doc, graduated from USTC in 2023.
+* Yuanyuan Liu, Post-doc, graduated from USTC in 2023; Now, a non-tenured Associated Professor in School of Public Affairs, USTC.
+* Shuqi Liu, PhD candidate, co-supervised with Prof. Shouqiang Wang from UTD; winner of National Scholarship (2022), CSC Scholarship (2023); expected graduation: 2026.
+* Zhe Zhang, PhD candidate; expected graduation: 2027.
+* Xiaoting Xie, PhD candidate.
+* Bingfeng Li, PhD candidate.
+* Jingyi Xu, PhD candidate.
+* Mengyuan Li, PhD candidate.
+* Xin Wang, MSc student.
+* Yuhui Shi, MSc student.
+* Jiaqi Yu, MSc student.
+* Zixian Zhang, MPhil student.
+* Xiaoni Qiu, MPhil student.
+* Haosen Ma, MPhil student.
+* Liang Su, MPhil student.
+* Yubing Li, MPhil student.
+* Guohua Zhan, MPhil student.
+* Bokai Chang, MPhil student.
+* Xuan Xiong, MPhil student.
+Graduated students
+* Caiyuan Xiong, PhD, co-supervised with Prof. Yugang Yu, graduated from USTC in 2022; winner of Chinese Academy of Sciencer Dean Reward (Excellence Award, 2022年度中国科学院院长优秀奖); Now, a post-doc in USTC.
 * Chunfang Yuan, MPhil, graduated from USTC in 2023. First position: Full Truck Alliance (满帮)
 * Yue Zhou, MPhil, graduated from USTC in 2023. 
-* Shuqi Liu, PhD candidate; winner of National Scholarship (2022), CSC Scholarship (2023); expected graduation: 2025
-* Zhe Zhang, PhD candidate; expected graduation: 2026
-* Bangzhu Zhou, MPhil student; expected graduation: 2024
-* Xiaoting Xie, MPhil student.
-* Fangrong Zhao, MSc student.
-* Xin Wang, MSc student.
+* Bangzhu Zhou, MPhil, graduated from USTC in 2024
+* Fangrong Zhao, MSc, graduated from USTC in 2024.
