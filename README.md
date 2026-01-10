@@ -59,8 +59,8 @@ I work on the operation and business strategies related to inventory, pricing, c
     Instructor, Optimization and Algorithm, Postgraduate, USTC
 
 
-## Publications ("#" indicates the (co-)supervised postdocs and students in USTC)
-* Caiyuan Xiong(#), Yugang Yu, **Xiaobei Shen**^*. Inventory management for maintenance service outsourcing: Should a manufacturer choose full outsourcing? *Transportation Research Part E*, 2025, 200, 104156. 
+## Publications ("#" indicates the (co-)supervised postdocs and students in USTC, "*" indicates the corresponding author)
+* Caiyuan Xiong(#), Yugang Yu, **Xiaobei Shen***. Inventory management for maintenance service outsourcing: Should a manufacturer choose full outsourcing? *Transportation Research Part E*, 2025, 200, 104156. 
 * **Xiaobei Shen**, Yimin Yu, Jingsheng (Jeannette) Song. Optimal policies for a multi-echelon inventory problem with service time target and expediting. *Manufacturing and Service Operations Management*,  2022, 24(4), 2310-2327.
 * **Xiaobei Shen**, Yimin Yu, Woonghee Tim Huh. A permutation-dependent separability approach for capacitated two-echelon inventory systems. *Operations Research*, 2022, 70(4), 1953-1968.
 * Xiangyin Kong, Shuqi Liu(#), **Xiaobei Shen**, Gengzhong Feng. The optimal joint incentive contract designs and inventory decisions with an overconfident agent. *Systems Engineering -- Theory & Practice*,  2022, 42(1), 123-137. (In Chinese)
