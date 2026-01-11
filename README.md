@@ -59,7 +59,8 @@ I work on the operation and business strategies related to inventory, pricing, c
     Instructor, Optimization and Algorithm, Postgraduate, USTC
 
 
-## Publications ("#" indicates the (co-)supervised postdocs and students in USTC, "*" indicates the corresponding author)
+## Publications 
+* "#" indicates the (co-)supervised postdocs and students in or outside USTC, "*" indicates the corresponding author
 * Jiancheng Lyu(#), **Xiaobei Shen***, Yuqian Zhou, Xiangyin Kong. Quality signaling in rewards-based crowdfunding: The role of deferred payments. *Manufacturing and Service Operations Management*, 2026, Forthcoming.
 * Yuanyuan Liu(#), Yundong Xie*, **Xiaobei Shen**, Dengsheng Wu. Artificial intelligence use and scientific innovation. *Journal of the Association for Information Science and Technology*, 2025, Published online.
 * Jingsheng (Jeannette) Song, Zhengliang Xue, **Xiaobei Shen***. Dynamic pricing and inventory control for substitutable products based on market conditions. *Manufacturing and Service Operations Management*, 2025, Published online.
